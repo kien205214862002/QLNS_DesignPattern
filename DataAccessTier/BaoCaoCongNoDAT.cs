@@ -8,7 +8,7 @@ using System.Text;
 namespace CNPM.DataAccessTier
 {
     class BaoCaoCongNoDAT 
-    {
+    {//test
         
         public BaoCaoCongNoDAT(){ }
 
